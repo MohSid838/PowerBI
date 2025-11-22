@@ -1,4 +1,4 @@
-# 🏦 Home Loan Analytics Dashboard -- Power BI
+# 🏦 Home Loan Analytics Dashboard
 
 This project presents a comprehensive **Home Loan Analytics Dashboard**
 built in **Power BI**, designed to help financial institutions track
